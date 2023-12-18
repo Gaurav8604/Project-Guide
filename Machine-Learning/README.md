@@ -3,7 +3,7 @@
 - One should update the main [README.md](https://github.com/Gaurav8604/Project-Guide/blob/main/README.md) file and add your project link. (Not Compulsory)
 - There should be 3 files `Model file`, `Dataset file` and `README.md` file. Any more files allowed will be decided by the approving/merging team.
 - If the dataset is too large, one can add the link to dataset to appropriate redirection.
-- One should also add README.md file to own project with the followinf format provided
+- One should also add README.md file to his/her own project with the following format provided
 
 ## README.md Format
 - Name of the project
